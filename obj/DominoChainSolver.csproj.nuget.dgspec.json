@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paixão\\Desktop\\projects\\CircularDominoChain\\DominoChainSolver.csproj": {}
+    "C:\\Users\\Paixão\\Desktop\\Test\\CircularDominoChain\\DominoChainSolver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paixão\\Desktop\\projects\\CircularDominoChain\\DominoChainSolver.csproj": {
+    "C:\\Users\\Paixão\\Desktop\\Test\\CircularDominoChain\\DominoChainSolver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paixão\\Desktop\\projects\\CircularDominoChain\\DominoChainSolver.csproj",
+        "projectUniqueName": "C:\\Users\\Paixão\\Desktop\\Test\\CircularDominoChain\\DominoChainSolver.csproj",
         "projectName": "DominoChainSolver",
-        "projectPath": "C:\\Users\\Paixão\\Desktop\\projects\\CircularDominoChain\\DominoChainSolver.csproj",
+        "projectPath": "C:\\Users\\Paixão\\Desktop\\Test\\CircularDominoChain\\DominoChainSolver.csproj",
         "packagesPath": "C:\\Users\\Paixão\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paixão\\Desktop\\projects\\CircularDominoChain\\obj\\",
+        "outputPath": "C:\\Users\\Paixão\\Desktop\\Test\\CircularDominoChain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paixão\\AppData\\Roaming\\NuGet\\NuGet.Config"
