@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DominoChainSolver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98b779376c599e6a74eb79966e77f4bca9f85587")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e32fa06d7d889d60f1d0ef3ec2a23f81abc8643d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DominoChainSolver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DominoChainSolver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
